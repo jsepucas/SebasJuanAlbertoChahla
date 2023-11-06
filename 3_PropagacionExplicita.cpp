@@ -19,7 +19,7 @@ int main() {
         funcion1();
     }
     catch(const std::runtime_error& e) {
-        std::cout << "Excepcion capturada en main: " << e.what() <<std::endl;
+        std::cerr << "Excepcion capturada en main: " << e.what() <<std::endl;
 
     }
 

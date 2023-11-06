@@ -14,7 +14,7 @@ int divide(int a, int b) {
 int main () {
     int result = divide(6,0);
     if(errorFlag) {
-        std::cout << "Ha ocurrido un error, operacion por cero." << std::endl;
+        std::cerr << "Ha ocurrido un error, operacion por cero." << std::endl;
         errorFlag = false;
     }
     return 0;
