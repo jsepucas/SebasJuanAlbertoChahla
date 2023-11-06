@@ -1,4 +1,0 @@
-C:/Users/monge/Documents/GitHub/SebasJuanAlbertoChahla/Ejercicio 2/cmake-build-debug/CMakeFiles/ERROR.dir
-C:/Users/monge/Documents/GitHub/SebasJuanAlbertoChahla/Ejercicio 2/cmake-build-debug/CMakeFiles/EXCEPCION.dir
-C:/Users/monge/Documents/GitHub/SebasJuanAlbertoChahla/Ejercicio 2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/monge/Documents/GitHub/SebasJuanAlbertoChahla/Ejercicio 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
